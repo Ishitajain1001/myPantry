@@ -151,7 +151,4 @@ The Neo4j graph database uses the following structure:
 - Recipe instructions and steps
 - Image uploads for recipes
 
-## License
-
-MIT
 
